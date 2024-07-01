@@ -22,6 +22,6 @@ ExploreAsia is your ultimate guide to discovering Asia's top tourist destination
 
 ## Installation
 To run locally:
-1. Clone the repository: `git clone https://github.com/programming-hero-web-course-4/B9A10-client-side-KMTonmoy.git`
+1. Clone the repository: `https://github.com/KMTonmoy/ExpoloreAsia-Client.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
